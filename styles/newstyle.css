@@ -1,0 +1,12 @@
+div{
+  background-color: aquamarine;
+  padding: 5px;
+}
+
+.span1{
+  font-size: larger;
+  font-weight: bolder;
+  text-decoration: underline;
+  color: brown;
+  border: 2px solid tomato;
+}
